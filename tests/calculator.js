@@ -17,7 +17,7 @@ describe('demo calculator test',function(){
        //shortcut ebmod - element by model ...
        //https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-protractor-snippets
 
-        browser.sleep(2000);
+        browser.sleep(3000);
     })
 
     // it('subtraction test',function(){
